@@ -1,14 +1,19 @@
+<!DOCTYPE html>
 <html>
-<h1>Heliotropic</h1>
-    <h3>striving towards light</h3>
+<head>
+    <meta charset="UTF-8">
+    <title>Heliotropic</title>
 </head>
 <body>
+    <h1>Heliotropic</h1>
+    <h3>striving towards light</h3>
+
     <h2>About us</h2>
     <p>
         William James says in order to change the outer aspects of our lives we have to change the inner attitudes of our minds. Heliotropic is a blog that will aim to educate and empower to inspire its readers to embrace change, cultivate optimism, and navigate their personal journeys towards their aspirations. Thus changing the inner aspects of their minds to change the world - one reader at a time.
     </p>
-</body>
- <h2>About us</h2>
+
+    <h2>About us</h2>
     <p>
         William James says in order to change the outer aspects of our lives we have to change the inner attitudes of our minds. Heliotropic is a blog that will aim to educate and empower to inspire its readers to embrace change, cultivate optimism, and navigate their personal journeys towards their aspirations. Thus changing the inner aspects of their minds to change the world - one reader at a time.
     </p>
