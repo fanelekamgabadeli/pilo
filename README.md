@@ -8,8 +8,7 @@
     <h1>Heliotropic</h1>
     <h3>striving towards light</h3>
 
- 
-    <img src="image.jpg" alt="Heliotropic Image">
+    <img src="image1.jpg" alt="Heliotropic Image">
 
     <h2>About us</h2>
     <p>
@@ -22,4 +21,3 @@
     </p>
 </body>
 </html>
-
